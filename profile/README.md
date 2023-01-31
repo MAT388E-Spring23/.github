@@ -31,7 +31,7 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Introduction statistical learning, supervised, unsupervised learning. Exploratory data analysis.
+Week 1. Exploratory data analysis.
 
 Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Gradient descent algorithms.
 
